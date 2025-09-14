@@ -16,7 +16,7 @@ import {
 } from "/src/redux/task-slice/taskSlice.js";
 import { setSummary } from "../redux/stage-slice/summary-slice.js";
 
-const BaseURL = "https://task-manager-backend-eight-alpha.vercel.app/";
+const BaseURL = "http://localhost:5050/api/";
 
 // helper to decode JWT safely
 function decodeJwt(token) {
