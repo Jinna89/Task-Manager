@@ -2,7 +2,14 @@
 
 This project is build by me. I'm using here ReactJs, TailwindCSS, Mongodb, ExpressJs, NodeJs, React Redux.
 
-## :
+## Features:
+
+login, Registration and update profile
+A dashboard or list view for tasks
+Create and updating tasks
+API endpoints for CRUD operations
+Database integration ( MongoDB )
+User authentication or session management
 
 ## I'm available:
 
