@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from '../components/layout/layout';
-import Canceled from '../components/canceled/canceled';
+import Canceled from "../components/canceled/Canceled"
 
 const CancelPage = () => {
   return (
